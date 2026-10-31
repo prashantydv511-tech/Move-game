@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Move Game",
+  "short_name": "MoveGame",
+  "description": "Android-friendly gaming and social mobile app featuring Tic-Tac-Toe, chat, voice, and video calls in a modern yellow & black theme.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0C",
+  "theme_color": "#0A0A0C",
+  "categories": ["games", "social", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
